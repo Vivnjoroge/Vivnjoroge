@@ -5,7 +5,7 @@
 
 <!-- Aesthetic GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250"/>
 </p>
 
 # 👋 Hi, I'm Vivian Njoroge
