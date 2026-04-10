@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on: **Web-based systems & real-world projects**
 - 🌱 I’m learning: **AI, Cloud Computing & Backend Development**
 - 👯 I’m open to: **Internships & Open Source Collaboration**
-- 💬 Ask me about: **React, Next.js, PostgreSQL**
+- 💬 Ask me about: **React, Typescript, PostgreSQL**
 - 📫 Reach me: **viviannjoroge91@gmail.com**
 
 ---
